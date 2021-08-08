@@ -19,3 +19,4 @@ Credits: Thanks to [Rytilahti](https://github.com/rytilahti/python-miio) for all
 |                          | chunmi.cooker.normal5 |                      |
 | Mi Smart Pressure Cooker | chunmi.cooker.press1  | YLIH01CM             |
 |                          | chunmi.cooker.press2  |                      |
+|                          | chunmi.cooker.k1pro1  |                      |
