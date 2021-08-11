@@ -1,3 +1,4 @@
+<img width="750" alt="Screen Shot 2021-08-11 at 12 37 05 PM" src="https://user-images.githubusercontent.com/28720993/129057826-2ab4314b-2aa2-41b6-a00c-bde0796c236a.png">
 # Xiaomi Rice Cooker
 
 This is a custom component for home assistant to integrate the Xiaomi Rice Cooker.
