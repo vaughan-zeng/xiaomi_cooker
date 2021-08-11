@@ -23,6 +23,20 @@ Credits: Thanks to [Rytilahti](https://github.com/rytilahti/python-miio) for all
 
 ## Tested for [chunmi.cooker.k1pro1](https://www.mi.com/buy/detail?product_id=9530&cfrom=search)
 
-<img width="994" alt="Screen Shot 2021-08-08 at 11 27 45 PM" src="https://user-images.githubusercontent.com/28720993/128637251-b50282c0-013e-4901-b634-f1f1f2adc260.png">
+V0.1.0
+
+![Screen Shot 2021-08-11 at 12.37.05 PM](/Users/zengjianzhao/Desktop/Screen Shot 2021-08-11 at 12.37.05 PM.png)
+
+V0.1.1 合并成一台电饭煲两个传感器实体，一个Cooking mode 显示相关设置值；一个Status 显示当前状态。
+
+![Screen Shot 2021-08-11 at 8.57.51 PM](/Users/zengjianzhao/Desktop/Screen Shot 2021-08-11 at 8.57.51 PM.png)
+
+
+
+![Screen Shot 2021-08-11 at 8.58.02 PM](/Users/zengjianzhao/Desktop/Screen Shot 2021-08-11 at 8.58.02 PM.png)
+
+![Screen Shot 2021-08-11 at 8.58.11 PM](/Users/zengjianzhao/Desktop/Screen Shot 2021-08-11 at 8.58.11 PM.png)
+
+
 
 ## Coming soon ... 
