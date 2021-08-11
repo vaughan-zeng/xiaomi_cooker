@@ -25,17 +25,13 @@ Credits: Thanks to [Rytilahti](https://github.com/rytilahti/python-miio) for all
 
 V0.1.0
 
-![Screen Shot 2021-08-11 at 12.37.05 PM](/Users/zengjianzhao/Desktop/Screen Shot 2021-08-11 at 12.37.05 PM.png)
+
 
 V0.1.1 合并成一台电饭煲两个传感器实体，一个Cooking mode 显示相关设置值；一个Status 显示当前状态。
 
-![Screen Shot 2021-08-11 at 8.57.51 PM](/Users/zengjianzhao/Desktop/Screen Shot 2021-08-11 at 8.57.51 PM.png)
+<img width="404" alt="Screen Shot 2021-08-11 at 8 58 02 PM" src="https://user-images.githubusercontent.com/28720993/129057682-3c83988c-7dfe-4749-b7a9-3b98276e9db8.png">
+<img width="401" alt="Screen Shot 2021-08-11 at 8 58 11 PM" src="https://user-images.githubusercontent.com/28720993/129057715-c3459876-34db-4240-a0e7-3ef80abb972b.png">
 
-
-
-![Screen Shot 2021-08-11 at 8.58.02 PM](/Users/zengjianzhao/Desktop/Screen Shot 2021-08-11 at 8.58.02 PM.png)
-
-![Screen Shot 2021-08-11 at 8.58.11 PM](/Users/zengjianzhao/Desktop/Screen Shot 2021-08-11 at 8.58.11 PM.png)
 
 
 
